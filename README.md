@@ -6,14 +6,14 @@ Welcome to your achievement-hunting playground! This repository is designed to h
 
 ### 1. 🦈 Pull Shark (Tier Up)
 - [x] Tier 1: 2 PRs
-- [ ] Tier 2 (Bronze): 16 PRs
+- [x] Tier 2 (Bronze): 16 PRs
 - [ ] Tier 3 (Silver): 128 PRs
 - [ ] Tier 4 (Gold): 1024 PRs
-> **Strategy:** Use the included `scripts/pull_shark_booster.sh` to generate and merge small PRs.
+> **Status:** We have just merged 15 PRs in this repo. Total merged PRs should now exceed 16.
 
 ### 2. 🤝 Pair Extraordinaire
-- [ ] **Status:** Not Earned
-> **Strategy:** Run `scripts/pair_up.sh`. It will create a commit with a co-author. Once merged via a PR, you'll get the badge.
+- [x] **Status:** Triggered!
+> **Status:** A co-authored PR (#1) has been merged. The badge should appear in 24-48 hours.
 
 ### 3. 🌌 Galaxy Brain
 - [ ] **Status:** Not Earned
